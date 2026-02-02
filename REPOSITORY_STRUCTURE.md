@@ -11,12 +11,15 @@ This repository contains the complete architectural documentation for the MyMirr
 mymirror-platform/
 ├── README.md                 # Main documentation and overview
 ├── ARCHITECTURE.md           # Detailed technical architecture
+├── ENTERPRISE_PRICING.md     # Enterprise licensing and pricing
 ├── LICENSE.md                # Commercial Business License
 ├── LICENSING.md              # Licensing FAQ and pricing guide
 ├── PRIOR_ART.md              # Prior art establishment document
 ├── CONTRIBUTING.md           # Contribution policy
 ├── GITHUB_SETUP.md           # GitHub setup instructions
 ├── REPOSITORY_STRUCTURE.md   # This file
+├── DEPLOYMENT_CHECKLIST.md   # Deployment checklist
+├── QUICK_START.md            # Quick start guide
 ├── .gitignore                # Git ignore rules
 │
 ├── docs/                     # Component specifications
