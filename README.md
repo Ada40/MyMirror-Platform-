@@ -10,8 +10,9 @@
 ## 📚 Documentation Navigation
 
 - **[Quick Start](./QUICK_START.md)** - Start here! Quick overview and navigation
+- **[Platform Overview](./PLATFORM_OVERVIEW.md)** - ⭐ The Four Pillars explained
 - **[Architecture Details](./ARCHITECTURE.md)** - Detailed technical specifications
-- **[Enterprise Pricing](./ENTERPRISE_PRICING.md)** - ⭐ Hardware, plans, and ROI
+- **[Enterprise Pricing](./ENTERPRISE_PRICING.md)** - Hardware, plans, and ROI
 - **[License](./LICENSE.md)** - Commercial Business License (Business-Only)
 - **[Licensing FAQ](./LICENSING.md)** - Licensing guide and pricing models
 - **[Prior Art](./PRIOR_ART.md)** - Prior art establishment and claims
