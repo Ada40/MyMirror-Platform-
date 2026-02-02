@@ -7,6 +7,26 @@
 
 ---
 
+## 📚 Documentation Navigation
+
+- **[Architecture Details](./ARCHITECTURE.md)** - Detailed technical specifications
+- **[License](./LICENSE.md)** - Commercial Business License (Business-Only)
+- **[Licensing FAQ](./LICENSING.md)** - Licensing guide and pricing models
+- **[Prior Art](./PRIOR_ART.md)** - Prior art establishment and claims
+- **[Component Specs](./docs/)** - Individual component documentation
+- **[GitHub Setup](./GITHUB_SETUP.md)** - How to publish and establish prior art
+- **[Contributing](./CONTRIBUTING.md)** - Contribution policy
+
+---
+
+## ⚠️ Important Notices
+
+**🔒 This is NOT open source.**  
+**💼 Commercial license required for business use.**  
+**📅 This repository establishes prior art as of January 13, 2025.**
+
+---
+
 ## 1. Statement of Original Authorship
 
 This repository documents the original design, architecture, and conceptual framework of the **MyMirror Platform**, a secure autonomous AI system built around a hardened browser execution vessel.
