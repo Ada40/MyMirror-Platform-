@@ -324,14 +324,18 @@ At every step, the **Secure AI Browser** enforces permissions. No component can 
 
 This platform is **not open source** and requires a **paid commercial license** for business use.
 
+**Enterprise Deployment:** Requires dedicated MyMirror Box hardware ($5,000 per box) plus monthly subscription starting at $5,000/month. See [ENTERPRISE_PRICING.md](./ENTERPRISE_PRICING.md) for complete details.
+
 **Key Terms:**
 - \u274c No free commercial use
 - \u274c No open-source redistribution
 - \u2705 Licensed business use only (with paid license)
 - \u274c No derivative platforms
 - \u2705 Attribution required
+- \u2705 Dedicated hardware required for enterprise deployment
 
-**Full license terms:** See [LICENSE.md](./LICENSE.md)
+**Full license terms:** See [LICENSE.md](./LICENSE.md)  
+**Enterprise pricing & plans:** See [ENTERPRISE_PRICING.md](./ENTERPRISE_PRICING.md)
 
 **Contact for licensing:** Adam Hatchett
 
