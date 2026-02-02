@@ -72,6 +72,23 @@ mymirror-platform/
 
 ---
 
+### ENTERPRISE_PRICING.md
+**Purpose:** Enterprise licensing, pricing, and business justification  
+**Content:**
+- MyMirror Box hardware requirements and pricing
+- Enterprise Core plan ($5,000/month)
+- Advanced Enterprise plan ($10,000/month)
+- Custom/Strategic deployment options
+- Pricing examples by enterprise size
+- ROI and business impact analysis
+- Deployment domains and use cases
+- Support and maintenance tiers
+- Contract terms and conditions
+
+**Target Audience:** C-suite, procurement, business decision-makers
+
+---
+
 ### LICENSE.md
 **Purpose:** Legal terms for platform use  
 **Content:**
