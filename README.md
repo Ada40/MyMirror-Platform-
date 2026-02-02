@@ -293,13 +293,24 @@ At every step, the **Secure AI Browser** enforces permissions. No component can 
 
 ---
 
-## 11. Licensing Intent
+## 11. Licensing
 
-**License:** All Rights Reserved (pending final license selection)
+**License:** MyMirror Commercial Business License v1.0
 
-**Author retains full rights to this architectural framework.**
+**License Type:** Business-Only Commercial Use - All Rights Reserved
 
-Derivative implementations should acknowledge this work as prior art. Final open-source license to be determined.
+This platform is **not open source** and requires a **paid commercial license** for business use.
+
+**Key Terms:**
+- \u274c No free commercial use
+- \u274c No open-source redistribution
+- \u2705 Licensed business use only (with paid license)
+- \u274c No derivative platforms
+- \u2705 Attribution required
+
+**Full license terms:** See [LICENSE.md](./LICENSE.md)
+
+**Contact for licensing:** Adam Hatchett
 
 ---
 
