@@ -23,7 +23,7 @@ This is **architectural documentation** for the MyMirror Platform, a secure auto
 ### I Want To...
 
 #### **Understand the Platform**
-→ Read [README.md](./README.md)
+→ Read [PLATFORM_OVERVIEW.md](./PLATFORM_OVERVIEW.md) - The Four Pillars explained
 
 #### **See Technical Details**
 → Read [ARCHITECTURE.md](./ARCHITECTURE.md)
