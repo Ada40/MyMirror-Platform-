@@ -9,12 +9,14 @@
 
 ## 📚 Documentation Navigation
 
+- **[Quick Start](./QUICK_START.md)** - Start here! Quick overview and navigation
 - **[Architecture Details](./ARCHITECTURE.md)** - Detailed technical specifications
 - **[License](./LICENSE.md)** - Commercial Business License (Business-Only)
 - **[Licensing FAQ](./LICENSING.md)** - Licensing guide and pricing models
 - **[Prior Art](./PRIOR_ART.md)** - Prior art establishment and claims
 - **[Component Specs](./docs/)** - Individual component documentation
 - **[GitHub Setup](./GITHUB_SETUP.md)** - How to publish and establish prior art
+- **[Repository Structure](./REPOSITORY_STRUCTURE.md)** - Complete file organization
 - **[Contributing](./CONTRIBUTING.md)** - Contribution policy
 
 ---
