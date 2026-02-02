@@ -52,3 +52,7 @@ htmlcov/
 !docs/**
 !*.md
 !LICENSE.md
+-e 
+# Environment files
+*.env
+*.env.*
