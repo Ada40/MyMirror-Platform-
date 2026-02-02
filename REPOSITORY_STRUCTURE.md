@@ -263,9 +263,10 @@ Documentation is:
 ## How to Navigate
 
 ### For Understanding the Platform
-1. Start with **README.md** (overview)
-2. Read **ARCHITECTURE.md** (detailed tech)
-3. Explore **docs/** (individual components)
+1. Start with **PLATFORM_OVERVIEW.md** (four pillars explained)
+2. Read **README.md** (complete overview)
+3. Read **ARCHITECTURE.md** (detailed tech)
+4. Explore **docs/** (individual components)
 
 ### For Licensing
 1. Read **LICENSING.md** (FAQ and guide)
