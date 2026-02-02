@@ -131,10 +131,11 @@ MyMirror Platform
 4. Respect the [LICENSE.md](./LICENSE.md) terms
 
 ### If You're a Business:
-1. Read [LICENSING.md](./LICENSING.md) for options
-2. Contact Adam Hatchett for pricing
-3. Obtain paid license before use
-4. Follow attribution requirements
+1. Read [ENTERPRISE_PRICING.md](./ENTERPRISE_PRICING.md) for pricing and ROI
+2. Read [LICENSING.md](./LICENSING.md) for additional options
+3. Contact Adam Hatchett for consultation
+4. Obtain paid license before use
+5. Follow attribution requirements
 
 ---
 
