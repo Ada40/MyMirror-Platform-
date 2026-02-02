@@ -36,27 +36,49 @@
 
 The author offers various licensing options:
 
-### Per-Seat License
-- Licensed per user/seat
-- Suitable for small to medium teams
-- Annual subscription
+### 🏢 Enterprise Core ($5,000/month)
+- **Hardware:** MyMirror Box required ($5,000 per box)
+- **Users:** Unlimited within box capacity
+- **Features:** Full platform access, Secure AI Browser, autonomous agents, Seven-Governor Memory, GUI, snapshots, and all core components
+- **Support:** Email support during business hours
+- **Contract:** 12-month minimum
 
-### Per-Organization License
-- Unlimited users within one organization
-- Suitable for enterprises
-- Annual or multi-year contracts
+### 🚀 Advanced Enterprise ($10,000/month)
+- **Hardware:** MyMirror Box required ($5,000 per box)
+- **Users:** Unlimited within box capacity
+- **Features:** Everything in Enterprise Core plus:
+  - Predictive simulation analytics
+  - Cross-department monitoring
+  - Enhanced reporting dashboards
+  - Priority support (4-hour SLA)
+- **Contract:** 12-month minimum
 
-### Enterprise Contract
-- Custom terms for large deployments
-- Volume discounts
-- Dedicated support options
+### 💎 Custom / Strategic (Quote-Based)
+- **Hardware:** MyMirror Box required ($5,000 per box)
+- **Users:** Unlimited
+- **Features:** Everything in Advanced Enterprise plus:
+  - Tailored configuration and integration
+  - Custom agent development
+  - White-glove onboarding
+  - Dedicated support team
+  - 24/7 emergency hotline
+- **Contract:** Custom terms
 
-### Subscription
-- Monthly or annual billing
-- Includes updates and patches
-- Varies by deployment size
+### 📊 Pricing Examples
 
-**Contact the author for specific pricing.**
+**Small Enterprise (50 users):**
+- Hardware: 2 boxes × $5,000 = $10,000 (one-time)
+- Software: Enterprise Core = $5,000/month
+- Year 1 Total: $70,000
+
+**Medium Enterprise (200 users):**
+- Hardware: 5 boxes × $5,000 = $25,000 (one-time)
+- Software: Advanced Enterprise = $10,000/month
+- Year 1 Total: $145,000
+
+**See [ENTERPRISE_PRICING.md](./ENTERPRISE_PRICING.md) for complete pricing details and ROI analysis.**
+
+**Contact the author for specific pricing and volume discounts.**
 
 ---
 
