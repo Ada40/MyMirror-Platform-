@@ -28,6 +28,9 @@ This is **architectural documentation** for the MyMirror Platform, a secure auto
 #### **See Technical Details**
 → Read [ARCHITECTURE.md](./ARCHITECTURE.md)
 
+#### **See Enterprise Pricing & Plans**
+→ Read [ENTERPRISE_PRICING.md](./ENTERPRISE_PRICING.md)
+
 #### **License It for Business**
 → Read [LICENSING.md](./LICENSING.md) and contact Adam Hatchett
 
