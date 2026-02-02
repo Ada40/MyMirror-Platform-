@@ -14,6 +14,14 @@
 - ✅ Security and fraud detection applications
 - ✅ Modification for licensed business use
 
+### Enterprise Deployment Requirements
+- ✅ Dedicated MyMirror Box hardware required ($5,000 per box)
+- ✅ Monthly subscription starting at $5,000/month (Enterprise Core)
+- ✅ Unlimited users within box capacity
+- ✅ Full platform access and updates included
+
+**See [ENTERPRISE_PRICING.md](./ENTERPRISE_PRICING.md) for detailed pricing, plans, and ROI analysis.**
+
 ### What Is Prohibited?
 - ❌ Free commercial use
 - ❌ Personal/hobby projects
