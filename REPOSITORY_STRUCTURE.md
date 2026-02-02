@@ -216,11 +216,14 @@ Index of all component specifications
 |------|---------|----------|
 | README.md | Overview & core concepts | Everyone |
 | ARCHITECTURE.md | Technical specifications | Engineers |
+| ENTERPRISE_PRICING.md | Pricing & ROI analysis | C-suite, Procurement |
 | LICENSE.md | Legal terms | Businesses, Legal |
 | LICENSING.md | Practical licensing guide | Business decision-makers |
 | PRIOR_ART.md | Establish prior art | Legal, Patent |
 | CONTRIBUTING.md | Contribution policy | Developers |
 | GITHUB_SETUP.md | Setup instructions | Repository owner |
+| QUICK_START.md | Navigation guide | Everyone |
+| DEPLOYMENT_CHECKLIST.md | Pre/post push checklist | Repository owner |
 | docs/*.md | Component details | Architects, Engineers |
 
 ---
